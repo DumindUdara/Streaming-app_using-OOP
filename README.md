@@ -13,7 +13,7 @@ Object-Oriented Programming (OOP) is a programming paradigm that is commonly use
 
 #### Encapsulation
 
-Encapsulation in Java is a process of wrapping code and data together into a single unit, for example, a capsule which is mixed of several medicines
+Encapsulation in Java is a process of wrapping code and data together into a single unit, for example, a capsule which is mixed of several medicines.
 
 #### Inheritance
 
@@ -25,7 +25,7 @@ Polymorphism in Java is a concept by which we can perform a single action in dif
 
 #### Abstraction
 
-Abstraction is a process of hiding the implementation details and showing only functionality to the user
+Abstraction is a process of hiding the implementation details and showing only functionality to the user.
 
 ## Example of output
 
