@@ -15,6 +15,10 @@ Object-Oriented Programming (OOP) is a programming paradigm that is commonly use
 
 Encapsulation in Java is a process of wrapping code and data together into a single unit, for example, a capsule which is mixed of several medicines
 
+#### Inheritance
+
+Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object.
+
 ## Example of output
 
 ![SS](https://user-images.githubusercontent.com/98957798/202877847-16699836-e802-4dee-bef3-f450c462e1bd.png)
