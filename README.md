@@ -19,6 +19,12 @@ Encapsulation in Java is a process of wrapping code and data together into a sin
 
 Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object.
 
+#### Polymorphism
+
+Polymorphism in Java is a concept by which we can perform a single action in different ways.
+
+#### Abstraction
+
 ## Example of output
 
 ![SS](https://user-images.githubusercontent.com/98957798/202877847-16699836-e802-4dee-bef3-f450c462e1bd.png)
