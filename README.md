@@ -25,6 +25,8 @@ Polymorphism in Java is a concept by which we can perform a single action in dif
 
 #### Abstraction
 
+Abstraction is a process of hiding the implementation details and showing only functionality to the user
+
 ## Example of output
 
 ![SS](https://user-images.githubusercontent.com/98957798/202877847-16699836-e802-4dee-bef3-f450c462e1bd.png)
